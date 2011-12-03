@@ -1,0 +1,13 @@
+Summary:
+Ban users for certain amounts of time
+
+Full description:
+This plugin provides more options when banning users than Elgg's default ban.
+
+* Include the reason for your records
+
+* Set the time period for the ban (requires cron to be set up to unban the user automatically)
+
+* Notify the user of the ban
+
+* List all banned users
